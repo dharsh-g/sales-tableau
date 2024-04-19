@@ -14,3 +14,5 @@ This Tableau dashboard analyzes sales and customer data spanning four years from
   <li>Customer Distribution by Number of Orders: Offering insights into the distribution of customers based on the number of orders they have placed.</li>
   <li>Top 10 Customers by Profit: Showcasing detailed information regarding the number of orders, last order date along with respective current sales and profits.</li>
 
+![Sales Dashboard](https://github.com/dharshinigopalan/sales-tableau/assets/113204616/d807ae66-cbf8-41e4-ab45-ad048ba7cae2)
+
